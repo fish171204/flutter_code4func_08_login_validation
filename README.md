@@ -1,12 +1,10 @@
 - flutter_code4func_08_login_validation --> Controller user + pass để kiểm tra đăng nhập
 
   ![image](https://github.com/user-attachments/assets/79091ac5-588a-4d4a-8ade-7334b0658405)
-![image](https://github.com/user-attachments/assets/df4e3052-f595-4a83-b593-5497ea6ea099)
-![image](https://github.com/user-attachments/assets/b3e363fc-9f2d-42a0-96cc-658cc00e92f1)
-![image](https://github.com/user-attachments/assets/e2efb199-ce24-402f-8bd2-bb2adc5b6d9f)
-![image](https://github.com/user-attachments/assets/0711ec36-c709-48ab-8f41-d0a4e101d5e2)
-![image](https://github.com/user-attachments/assets/133fef58-ad97-48e4-90ff-a758bfb9433c)
-
-SIGN IN
-![image](https://github.com/user-attachments/assets/be30b6e1-cf6b-43f3-b3ad-6f105a86fd5a)
+![image](https://github.com/user-attachments/assets/06041e7d-8b93-46dc-8a26-1e5c36c876d0)
+![image](https://github.com/user-attachments/assets/06a60f3e-8f3f-4427-8afe-bac53a5b6a01)
+![image](https://github.com/user-attachments/assets/2a8c68f0-398c-4fe3-beea-02bd8d66f36b)
+![image](https://github.com/user-attachments/assets/50c7548d-6e15-419a-8778-24d8cdf4803b)
+![image](https://github.com/user-attachments/assets/7844c05c-1bb5-42cb-a612-90fbf8584f99)
+![image](https://github.com/user-attachments/assets/036273f5-47a4-4a0c-9426-bd277a15b68b)
 
